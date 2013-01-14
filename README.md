@@ -15,7 +15,7 @@ Start the API...
 
 Call one method of the API with curl (or with your browser if you want)
 
-	curl -X GET -g "http://localhost:8080/v1/words/fantastic.json
+	curl -X GET -g "http://localhost:8080/v1/word/fantastic.json
 
 The above call returns 
 
